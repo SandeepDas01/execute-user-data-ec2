@@ -25,5 +25,5 @@ Content-Disposition: attachment; filename="userdata.txt"
 
 #our Command you can modify as per your scenrio
 #!/bin/bash
-/bin/echo "Hello World" >> /tmp/testfile.txt
+touch file1
 --//--
